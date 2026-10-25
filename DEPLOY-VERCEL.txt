@@ -1,0 +1,33 @@
+MUHAMMAD ZAIN UL ABIDEEN — CREATIVE PORTFOLIO
+
+Extract this ZIP first. Keep index.html, favicon.svg, vercel.json and the assets
+folder at the project root, with the assets subfolders intact.
+
+VERCEL + GITHUB
+Upload the extracted files (not the ZIP) to your GitHub repository, then import
+that repository into Vercel. Use Framework: Other; Build Command: empty;
+Output Directory: . (one dot). The included vercel.json sets these values.
+
+VERCEL CLI
+With Node.js installed, open a terminal in the extracted directory and run:
+  npx vercel --prod
+Follow the account and project prompts. No website build is needed.
+
+THE FOUR CARDS
+About: transparent glass with a warm cream tint.
+Experience: transparent glass with a violet tint.
+Projects: transparent glass with a blue tint; Coming Soon.
+Contact: transparent glass with a green tint; WhatsApp.
+
+On mobile, tap outside a card to close it, or use its close button.
+The corner buttons also open or close cards. Escape closes an open card.
+The bottom control switches between light and dark page themes.
+
+CONTACT
+WhatsApp: +92 303 2662265
+Link: https://wa.me/923032662265
+
+UPDATING AN EXISTING GITHUB / VERCEL SITE
+Replace index.html AND both files in assets/portrait/ to get the new head poses.
+Keep the original assets/fonts folder and favicon.svg. The portrait atlas URLs
+include a version marker to avoid retaining the previous images in cache.
